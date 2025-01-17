@@ -4,11 +4,11 @@
 ## 下载脚本
 ### 使用 `wget` 下载
 ```bash
-wget https://raw.githubusercontent.com/XyHK-HUC/Serv00-Reg/main/main.py
+wget https://github.com/mimaldq/Serv00-Reg00x/blob/main/main.py
 ```
 ### 使用 `curl` 下载
 ```bash
-curl -O https://raw.githubusercontent.com/XyHK-HUC/Serv00-Reg/main/main.py
+curl -O https://github.com/mimaldq/Serv00-Reg00x/blob/main/main.py
 ```
 ## 安装依赖
 ### 使用 `pip` 安装依赖库
